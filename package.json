@@ -1,0 +1,28 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "tutorial express js basico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegodelfin7/express-js-tutorial.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "tutorial",
+    "basico"
+  ],
+  "author": "diegodelfin7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegodelfin7/express-js-tutorial/issues"
+  },
+  "homepage": "https://github.com/diegodelfin7/express-js-tutorial#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
